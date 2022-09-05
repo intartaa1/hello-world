@@ -31,3 +31,4 @@ I acquire towards a software engineering position, or continue to work on "Safar
 found in the game.
 
 https://github.com/intartaa1/hello-world.git
+https://github.com/intartaa1/final-project.git![thumbnail_IMG_3662](https://user-images.githubusercontent.com/98785938/188362891-55305f87-302b-4707-8582-b68cc6349979.jpg)
